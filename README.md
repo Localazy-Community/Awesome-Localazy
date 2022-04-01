@@ -12,3 +12,8 @@ This is a small library to help the developers who already using Localazy to loc
 ## How to get featured here?
 
 Simply send us a pull request!
+
+### For Vue.js
+
+### [Vue-i18n by Kazupon](https://github.com/kazupon/vue-i18n)
+Internationalization plugin for Vue.js. Localazy is a proud sponsor of its author.
