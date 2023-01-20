@@ -18,6 +18,8 @@ Internationalization plugin for Vue.js. Localazy is a proud sponsor of its autho
 #### [Nx/Ng Plugin by rxap](https://www.npmjs.com/package/@rxap/plugin-localazy)
 A Nx/Ng plugin for localazy.com upload and download tasks.
 
+#### [deepl-po-translate by uffou]([https://www.npmjs.com/package/deepl-po-translate](https://github.com/uffou/deepl-po-translate)
+For machine translating .PO files using the deepL api, Localazy and LinguiJS
 
 ## How to get featured here?
 
